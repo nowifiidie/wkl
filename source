@@ -1,0 +1,15 @@
+.gitignore//from   w  w w .j a v a2 s  . co  m
+README.md
+beeroftheworld/WebContent/META-INF/MANIFEST.MF
+beeroftheworld/pom.xml
+beeroftheworld/src/main/java/at/beeroftheworld/model/BeerBrand.java
+beeroftheworld/src/main/java/at/beeroftheworld/model/BeerType.java
+beeroftheworld/src/main/java/at/beeroftheworld/persistence/BrandDao.java
+beeroftheworld/src/main/java/at/beeroftheworld/persistence/ConnectionManager.java
+beeroftheworld/src/main/java/at/beeroftheworld/persistence/OptimisticLockingException.java
+beeroftheworld/src/main/java/at/beeroftheworld/persistence/PersistenceException.java
+beeroftheworld/src/main/java/at/beeroftheworld/persistence/impl/BrandDaoImpl.java
+beeroftheworld/src/test/java/at/beeroftheworld/model/JsonToModelParsing.java
+beeroftheworld/src/test/java/at/beeroftheworld/persistence/BrandDaoTest.java
+beeroftheworld/src/test/java/at/beeroftheworld/persistence/impl/OnSimpleDaoUsage.java
+beeroftheworld/src/test/java/at/beeroftheworld/persistence/impl/OptimisticLockingExploitation.java
