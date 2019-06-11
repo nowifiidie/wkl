@@ -13,3 +13,17 @@ beeroftheworld/src/test/java/at/beeroftheworld/model/JsonToModelParsing.java
 beeroftheworld/src/test/java/at/beeroftheworld/persistence/BrandDaoTest.java
 beeroftheworld/src/test/java/at/beeroftheworld/persistence/impl/OnSimpleDaoUsage.java
 beeroftheworld/src/test/java/at/beeroftheworld/persistence/impl/OptimisticLockingExploitation.java
+{
+  "appLaunch": [
+    {
+      "name": "App Launch-wx",
+      "credentials": {
+        "admin_url": "https://us-south.applaunch.cloud.ibm.com/applaunch-dashboard/#?instanceid=48b95905-2b0a-4152-8ba3-43fdbecd883d",
+        "appGuid": "48b95905-2b0a-4152-8ba3-43fdbecd883d",
+        "appSecret": "d4b4085b-ddb9-49d3-a2fb-d7f4b955db28",
+        "clientSecret": "e6e54434-faa3-4b62-810e-a42aff2da316",
+        "url": "https://us-south.applaunch.cloud.ibm.com/applaunch/v1/apps/48b95905-2b0a-4152-8ba3-43fdbecd883d"
+      }
+    }
+  ]
+}
